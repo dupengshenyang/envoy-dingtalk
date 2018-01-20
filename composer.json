@@ -1,12 +1,12 @@
 {
-    "name": "laravel/envoy",
-    "description": "Elegant SSH tasks for PHP.",
-    "keywords": ["ssh", "laravel"],
+    "name": "dupengshenyang/envoy",
+    "description": "laravel/envoy 包括dingtalk",
+    "keywords": ["ssh", "laravel", "DingTalk"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
+            "name": "dupeng",
+            "email": "277578870@qq.com"
         }
     ],
     "autoload": {
